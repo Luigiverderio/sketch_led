@@ -1,6 +1,6 @@
 # Code to make an LED blink
 
-## technologies used:
+## Technologies Used:
 
 ### Arduino
 - [Void loop documentation ↗️](www.arduino.cc/reference/pt/language/structure/sketch/loop/)
